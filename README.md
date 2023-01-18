@@ -1,6 +1,6 @@
 # RecyclerView - SleepQualityTracker with RecyclerView app
 
-A toy-app on [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/).
+A sleeptracking-app on [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/).
 
 ## SleepQualityTracker with RecyclerView
 
